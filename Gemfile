@@ -64,3 +64,5 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem "mcp", "~> 0.2.0"
