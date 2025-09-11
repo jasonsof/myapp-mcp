@@ -8,7 +8,7 @@ module Todos
         id: { type: "integer" },
         title: { type: "string" },
         description: { type: "string" },
-        completed: { type: "boolean" },
+        completed: { type: "boolean" }
       },
       required: [ "id" ]
     )

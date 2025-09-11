@@ -7,9 +7,9 @@ module Todos
       properties: {
         title: { type: "string" },
         description: { type: "string" },
-        completed: { type: "boolean" },
+        completed: { type: "boolean" }
       },
-      required: [  ]
+      required: []
     )
 
     def self.call(title: nil, description: nil, completed: nil, server_context:)

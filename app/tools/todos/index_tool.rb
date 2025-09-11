@@ -5,7 +5,7 @@ module Todos
 
     input_schema(
       properties: {
-        count: { type: "integer" },
+        count: { type: "integer" }
       },
       required: []
     )
