@@ -164,7 +164,7 @@ GEM
       net-smtp
     marcel (1.0.4)
     matrix (0.4.3)
-    mcp (0.2.0)
+    mcp (0.3.0)
       json-schema (>= 4.1)
       json_rpc_handler (~> 0.1)
     mini_mime (1.1.5)
@@ -393,7 +393,7 @@ DEPENDENCIES
   importmap-rails
   jbuilder
   kamal
-  mcp (~> 0.2.0)
+  mcp (~> 0.3.0)
   propshaft
   puma (>= 5.0)
   rails (~> 8.1.0.beta1)
